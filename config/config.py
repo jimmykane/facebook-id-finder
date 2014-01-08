@@ -1,5 +1,5 @@
 project_name = "Facebook Page ID Finder"
-domain_name = "facebook-page-id-finder.appspot.com"
+domain_name = "facebook-id-finder.appspot.com"
 
 #openID Providers and names
 providers = {
