@@ -1,7 +1,7 @@
 Facebook ID Finder
 =======================
 
-A simple app that tries to find a Facebook Page Id out of a string that is assumed to be either a url or a Facebook Page name
+A simple app that tries to find a Facebook ID out of a string that is assumed to be either a url or a Facebook entity
 
 
 
